@@ -1,6 +1,6 @@
 <!-- タイピングアニメーション -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=2000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello!+I'm+kaeru333+%F0%9F%90%B8;Welcome+to+my+GitHub+profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=2000&color=36BCF7&center=true&vCenter=true&repeat=false&width=600&lines=Hello!+I'm+kaeru333" />
 </div>
 
 ---
@@ -12,36 +12,21 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,ts,react,aws,linux,neovim,docker,git,github" />
 </div>
 
-<!-- --- -->
-<!---->
-<!-- ## 📊 GitHub Analytics -->
-<!---->
-<!-- <div align="center"> -->
-<!--   <img height="165" src="https://github-readme-stats.vercel.app/api?username=kaeru333&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> -->
-<!--   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaeru333&layout=compact&theme=tokyonight&hide_border=true" /> -->
-<!-- </div> -->
-<!---->
-<!-- <div align="center"> -->
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaeru333&theme=tokyonight&hide_border=true" /> -->
-<!-- </div> -->
-<!---->
-<!-- --- -->
-<!---->
-<!-- ## 🏆 GitHub Trophies -->
-<!---->
-<!-- <div align="center"> -->
-<!--   <img src="https://github-profile-trophy.vercel.app/?username=kaeru333&theme=tokyonight&no-frame=true&column=7" /> -->
-<!-- </div> -->
-<!---->
-<!-- --- -->
-<!---->
-<!-- <!-- フッター: ウェーブ --> -->
-<!-- <div align="center"> -->
-<!--   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" /> -->
-<!-- </div> -->
+---
+
+## GitHub Analytics
+
+<div align="center">
+  <img alt="Top Langs" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaeru333&layout=donut&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img alt="github stats" height="195px" src="https://github-readme-stats.vercel.app/api?username=kaeru333&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</div>
+
+<div align="center">
+  <img alt="contributions" height="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaeru333&theme=tokyonight" />
+</div>
