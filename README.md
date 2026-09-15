@@ -24,7 +24,7 @@
 
 <div align="center">
   <img alt="Top Langs" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaeru333&layout=donut&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img alt="github stats" height="195px" src="https://github-readme-stats.vercel.app/api?username=kaeru333&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img alt="github stats (rank B)" height="195px" src="./assets/github-stats.svg" />
 </div>
 
 <div align="center">
